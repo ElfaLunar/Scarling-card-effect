@@ -55,7 +55,7 @@ a{
   opacity: 0;
   }
 
-.card:hover.content{
+.card:hover .content{
   height: 100%;
   width: 100%;
   left: 0%;
