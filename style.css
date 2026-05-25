@@ -56,7 +56,7 @@ a{
   }
 
 .card:hover .content{
-  height: 100%;
+  height:100%;
   width: 100%;
   left: 0%;
   }
